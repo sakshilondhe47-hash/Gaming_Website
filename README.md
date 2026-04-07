@@ -47,14 +47,13 @@ cd Gaming_Website
 
 
 ## 📸 Screenshots
+<img width="1878" height="900" alt="Screenshot 2026-04-07 164609" src="https://github.com/user-attachments/assets/e22485b6-7aee-49fc-b0e4-0a444e599b95" />
+<img width="1862" height="890" alt="Screenshot 2026-04-07 164632" src="https://github.com/user-attachments/assets/538a6022-aa47-4efd-bb4b-9898a2078cbe" />
 
-(Add screenshots of your project here)
 
-Example:
 
-```
-![![Gaming Website Screenshot](./images/screenshot.png)Homepage Screenshot](./images/screenshot.png)
-```
+
+
 
 ---
 
